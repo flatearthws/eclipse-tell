@@ -1,0 +1,680 @@
+latitude (degrees):  78.23472222222222
+longitude (degrees):  85.65111111111112
+time:  1968-09-22 10:45:00
+moon angular size (degrees):  0.5352410549587674
+sun angular size (degrees):  0.5312827555338542
+sun altitude (degrees):  4.612095482334865
+sun azimuth (degrees):  249.18199390439668
+sun moon separation (degrees) 4.8717494326925376e-05
+type of eclipse:  total solar eclipse
+
+latitude (degrees):  77.0525
+longitude (degrees):  78.86805555555554
+time:  1968-09-22 10:46:00
+moon angular size (degrees):  0.5355250379774306
+sun angular size (degrees):  0.5312835354275174
+sun altitude (degrees):  6.3286547825610615
+sun azimuth (degrees):  242.8471846945066
+sun moon separation (degrees) 0.00014258275510966095
+type of eclipse:  total solar eclipse
+
+latitude (degrees):  75.96888888888888
+longitude (degrees):  74.70222222222222
+time:  1968-09-22 10:47:00
+moon angular size (degrees):  0.535739508734809
+sun angular size (degrees):  0.5312841457790799
+sun altitude (degrees):  7.632193397450234
+sun azimuth (degrees):  239.09976042524409
+sun moon separation (degrees) 0.00010031022867297402
+type of eclipse:  total solar eclipse
+
+latitude (degrees):  74.96694444444445
+longitude (degrees):  71.83555555555554
+time:  1968-09-22 10:48:00
+moon angular size (degrees):  0.5359161037868924
+sun angular size (degrees):  0.531284688313802
+sun altitude (degrees):  8.707914894555037
+sun azimuth (degrees):  236.63742258794113
+sun moon separation (degrees) 4.992933688219337e-05
+type of eclipse:  total solar eclipse
+
+latitude (degrees):  74.01694444444445
+longitude (degrees):  69.75
+time:  1968-09-22 10:49:00
+moon angular size (degrees):  0.5360686916775174
+sun angular size (degrees):  0.531285163031684
+sun altitude (degrees):  9.638537560479383
+sun azimuth (degrees):  234.95009265538118
+sun moon separation (degrees) 3.986309291931098e-05
+type of eclipse:  total solar eclipse
+
+latitude (degrees):  73.11666666666666
+longitude (degrees):  68.15138888888889
+time:  1968-09-22 10:50:00
+moon angular size (degrees):  0.5362043253580729
+sun angular size (degrees):  0.5312855699327257
+sun altitude (degrees):  10.466209638817775
+sun azimuth (degrees):  233.74601226697797
+sun moon separation (degrees) 6.29017407952717e-05
+type of eclipse:  total solar eclipse
+
+latitude (degrees):  72.25166666666667
+longitude (degrees):  66.91722222222222
+time:  1968-09-22 10:51:00
+moon angular size (degrees):  0.5363265313042535
+sun angular size (degrees):  0.5312859768337673
+sun altitude (degrees):  11.212187532040934
+sun azimuth (degrees):  232.90502473485265
+sun moon separation (degrees) 5.9928585383934874e-05
+type of eclipse:  total solar eclipse
+
+latitude (degrees):  71.43444444444445
+longitude (degrees):  65.93416666666667
+time:  1968-09-22 10:52:00
+moon angular size (degrees):  0.5364368353949652
+sun angular size (degrees):  0.5312863498263889
+sun altitude (degrees):  11.885406835130533
+sun azimuth (degrees):  232.31208235262548
+sun moon separation (degrees) 2.1121193543184415e-05
+type of eclipse:  total solar eclipse
+
+latitude (degrees):  70.65055555555556
+longitude (degrees):  65.15055555555556
+time:  1968-09-22 10:53:00
+moon angular size (degrees):  0.5365375773111979
+sun angular size (degrees):  0.5312866889105903
+sun altitude (degrees):  12.499812233050799
+sun azimuth (degrees):  231.91743402238217
+sun moon separation (degrees) 2.247550002225511e-05
+type of eclipse:  total solar eclipse
+
+latitude (degrees):  69.88527777777779
+longitude (degrees):  64.51722222222222
+time:  1968-09-22 10:54:00
+moon angular size (degrees):  0.5366313001844618
+sun angular size (degrees):  0.5312870279947917
+sun altitude (degrees):  13.071553708094227
+sun azimuth (degrees):  231.67425196717303
+sun moon separation (degrees) 8.327247896831946e-05
+type of eclipse:  total solar eclipse
+
+latitude (degrees):  69.15222222222222
+longitude (degrees):  64.00111111111111
+time:  1968-09-22 10:55:00
+moon angular size (degrees):  0.5367175632052952
+sun angular size (degrees):  0.5312873331705729
+sun altitude (degrees):  13.596963448676519
+sun azimuth (degrees):  231.54682795801727
+sun moon separation (degrees) 8.763145348687288e-05
+type of eclipse:  total solar eclipse
+
+latitude (degrees):  68.45083333333334
+longitude (degrees):  63.584722222222226
+time:  1968-09-22 10:56:00
+moon angular size (degrees):  0.536796637641059
+sun angular size (degrees):  0.531287604437934
+sun altitude (degrees):  14.077959030407156
+sun azimuth (degrees):  231.51715761626272
+sun moon separation (degrees) 3.115981406865207e-05
+type of eclipse:  total solar eclipse
+
+latitude (degrees):  67.76666666666667
+longitude (degrees):  63.25138888888889
+time:  1968-09-22 10:57:00
+moon angular size (degrees):  0.5368703545464409
+sun angular size (degrees):  0.5312878757052951
+sun altitude (degrees):  14.525643779555642
+sun azimuth (degrees):  231.57089754465238
+sun moon separation (degrees) 6.653411518350875e-05
+type of eclipse:  total solar eclipse
+
+latitude (degrees):  67.08583333333333
+longitude (degrees):  62.984722222222224
+time:  1968-09-22 10:58:00
+moon angular size (degrees):  0.5369405110677083
+sun angular size (degrees):  0.5312881469726562
+sun altitude (degrees):  14.951707564886453
+sun azimuth (degrees):  231.6943054025762
+sun moon separation (degrees) 0.00011474285828683126
+type of eclipse:  total solar eclipse
+
+latitude (degrees):  66.43583333333333
+longitude (degrees):  62.76916666666666
+time:  1968-09-22 10:59:00
+moon angular size (degrees):  0.5370049031575521
+sun angular size (degrees):  0.5312884182400174
+sun altitude (degrees):  15.341716489136058
+sun azimuth (degrees):  231.8659070752836
+sun moon separation (degrees) 9.145346567230205e-05
+type of eclipse:  total solar eclipse
+
+latitude (degrees):  65.8025
+longitude (degrees):  62.617222222222225
+time:  1968-09-22 11:00:00
+moon angular size (degrees):  0.5370641411675348
+sun angular size (degrees):  0.5312886555989583
+sun altitude (degrees):  15.69899343933567
+sun azimuth (degrees):  232.1003464883551
+sun moon separation (degrees) 0.00010702181214846118
+type of eclipse:  total solar eclipse
+
+latitude (degrees):  65.18527777777778
+longitude (degrees):  62.5
+time:  1968-09-22 11:01:00
+moon angular size (degrees):  0.5371195136176216
+sun angular size (degrees):  0.5312888590494792
+sun altitude (degrees):  16.031958331184622
+sun azimuth (degrees):  232.36888220576333
+sun moon separation (degrees) 8.564162548410016e-05
+type of eclipse:  total solar eclipse
+
+latitude (degrees):  64.58444444444444
+longitude (degrees):  62.41694444444444
+time:  1968-09-22 11:02:00
+moon angular size (degrees):  0.5371709526909723
+sun angular size (degrees):  0.5312890964084201
+sun altitude (degrees):  16.33996229671176
+sun azimuth (degrees):  232.67039407648437
+sun moon separation (degrees) 2.4993849828546353e-05
+type of eclipse:  total solar eclipse
+
+latitude (degrees):  63.98555555555556
+longitude (degrees):  62.36694444444444
+time:  1968-09-22 11:03:00
+moon angular size (degrees):  0.537219712999132
+sun angular size (degrees):  0.531289299858941
+sun altitude (degrees):  16.63130060066407
+sun azimuth (degrees):  233.00679455348583
+sun moon separation (degrees) 0.00011078350493198404
+type of eclipse:  total solar eclipse
+
+latitude (degrees):  63.416666666666664
+longitude (degrees):  62.33555555555556
+time:  1968-09-22 11:04:00
+moon angular size (degrees):  0.537263929578993
+sun angular size (degrees):  0.5312895033094618
+sun altitude (degrees):  16.893542298752124
+sun azimuth (degrees):  233.35691005034067
+sun moon separation (degrees) 0.00010230688058526796
+type of eclipse:  total solar eclipse
+
+latitude (degrees):  62.83555555555556
+longitude (degrees):  62.35
+time:  1968-09-22 11:05:00
+moon angular size (degrees):  0.5373058742947049
+sun angular size (degrees):  0.5312897067599827
+sun altitude (degrees):  17.141503778832977
+sun azimuth (degrees):  233.75704985267672
+sun moon separation (degrees) 0.00012120278455898807
+type of eclipse:  total solar eclipse
+
+latitude (degrees):  62.284166666666664
+longitude (degrees):  62.368611111111115
+time:  1968-09-22 11:06:00
+moon angular size (degrees):  0.537343987358941
+sun angular size (degrees):  0.5312898763020834
+sun altitude (degrees):  17.36488170054366
+sun azimuth (degrees):  234.1560148624755
+sun moon separation (degrees) 4.41410057717004e-05
+type of eclipse:  total solar eclipse
+
+latitude (degrees):  61.73444444444444
+longitude (degrees):  62.41833333333333
+time:  1968-09-22 11:07:00
+moon angular size (degrees):  0.5373792182074653
+sun angular size (degrees):  0.5312900797526041
+sun altitude (degrees):  17.56987616810325
+sun azimuth (degrees):  234.58650802548306
+sun moon separation (degrees) 3.8590191032774e-05
+type of eclipse:  total solar eclipse
+
+latitude (degrees):  61.20027777777778
+longitude (degrees):  62.485
+time:  1968-09-22 11:08:00
+moon angular size (degrees):  0.537411126030816
+sun angular size (degrees):  0.5312902492947048
+sun altitude (degrees):  17.75328553033831
+sun azimuth (degrees):  235.03096209515414
+sun moon separation (degrees) 7.821703639112865e-05
+type of eclipse:  total solar eclipse
+
+latitude (degrees):  60.6675
+longitude (degrees):  62.56861111111112
+time:  1968-09-22 11:09:00
+moon angular size (degrees):  0.5374408637152778
+sun angular size (degrees):  0.5312904188368055
+sun altitude (degrees):  17.922918401017455
+sun azimuth (degrees):  235.49262824153362
+sun moon separation (degrees) 5.9623727442754534e-05
+type of eclipse:  total solar eclipse
+
+latitude (degrees):  60.15
+longitude (degrees):  62.66888888888889
+time:  1968-09-22 11:10:00
+moon angular size (degrees):  0.5374672105577257
+sun angular size (degrees):  0.5312905883789063
+sun altitude (degrees):  18.07068100597422
+sun azimuth (degrees):  235.96727174733616
+sun moon separation (degrees) 0.00011734030924585616
+type of eclipse:  total solar eclipse
+
+latitude (degrees):  59.63361111111111
+longitude (degrees):  62.78583333333333
+time:  1968-09-22 11:11:00
+moon angular size (degrees):  0.5374913872612848
+sun angular size (degrees):  0.5312907240125868
+sun altitude (degrees):  18.20421461934255
+sun azimuth (degrees):  236.45828038639004
+sun moon separation (degrees) 8.759817466539868e-05
+type of eclipse:  total solar eclipse
+
+latitude (degrees):  59.11888888888889
+longitude (degrees):  62.91888888888889
+time:  1968-09-22 11:12:00
+moon angular size (degrees):  0.5375132581922744
+sun angular size (degrees):  0.5312908596462673
+sun altitude (degrees):  18.323006976934707
+sun azimuth (degrees):  236.96472525296815
+sun moon separation (degrees) 8.147166054427988e-05
+type of eclipse:  total solar eclipse
+
+latitude (degrees):  58.61888888888889
+longitude (degrees):  63.06805555555556
+time:  1968-09-22 11:13:00
+moon angular size (degrees):  0.53753173828125
+sun angular size (degrees):  0.531291029188368
+sun altitude (degrees):  18.419637078217463
+sun azimuth (degrees):  237.4825901958385
+sun moon separation (degrees) 0.00010227124972688041
+type of eclipse:  total solar eclipse
+
+latitude (degrees):  58.134166666666665
+longitude (degrees):  63.23361111111111
+time:  1968-09-22 11:14:00
+moon angular size (degrees):  0.5375467258029514
+sun angular size (degrees):  0.5312911309136285
+sun altitude (degrees):  18.493568753340973
+sun azimuth (degrees):  238.01154736592096
+sun moon separation (degrees) 2.4178532008893128e-05
+type of eclipse:  total solar eclipse
+
+latitude (degrees):  57.650555555555556
+longitude (degrees):  63.40083333333333
+time:  1968-09-22 11:15:00
+moon angular size (degrees):  0.5375603908962674
+sun angular size (degrees):  0.5312912665473091
+sun altitude (degrees):  18.55878681463084
+sun azimuth (degrees):  238.54132415870384
+sun moon separation (degrees) 4.85451220659319e-05
+type of eclipse:  total solar eclipse
+
+latitude (degrees):  57.16777777777777
+longitude (degrees):  63.58444444444444
+time:  1968-09-22 11:16:00
+moon angular size (degrees):  0.5375716824001736
+sun angular size (degrees):  0.5312914021809896
+sun altitude (degrees):  18.608572063491064
+sun azimuth (degrees):  239.08566291479718
+sun moon separation (degrees) 4.114976411688717e-05
+type of eclipse:  total solar eclipse
+
+latitude (degrees):  56.7
+longitude (degrees):  63.78361111111111
+time:  1968-09-22 11:17:00
+moon angular size (degrees):  0.5375795152452257
+sun angular size (degrees):  0.53129150390625
+sun altitude (degrees):  18.635752801293126
+sun azimuth (degrees):  239.63926340740505
+sun moon separation (degrees) 5.600520847352003e-05
+type of eclipse:  total solar eclipse
+
+latitude (degrees):  56.233333333333334
+longitude (degrees):  63.985
+time:  1968-09-22 11:18:00
+moon angular size (degrees):  0.537585957845052
+sun angular size (degrees):  0.5312916056315105
+sun altitude (degrees):  18.653591547857907
+sun azimuth (degrees):  240.19341031514654
+sun moon separation (degrees) 0.00010069824937108386
+type of eclipse:  total solar eclipse
+
+latitude (degrees):  55.76722222222222
+longitude (degrees):  64.20222222222222
+time:  1968-09-22 11:19:00
+moon angular size (degrees):  0.5375899590386285
+sun angular size (degrees):  0.5312917073567708
+sun altitude (degrees):  18.655662802723715
+sun azimuth (degrees):  240.76058922382438
+sun moon separation (degrees) 6.529554570496227e-05
+type of eclipse:  total solar eclipse
+
+latitude (degrees):  55.30222222222222
+longitude (degrees):  64.435
+time:  1968-09-22 11:20:00
+moon angular size (degrees):  0.5375914510091145
+sun angular size (degrees):  0.5312918090820312
+sun altitude (degrees):  18.641445763966335
+sun azimuth (degrees):  241.34003515225157
+sun moon separation (degrees) 0.00011240668528257088
+type of eclipse:  total solar eclipse
+
+latitude (degrees):  54.85194444444445
+longitude (degrees):  64.68361111111112
+time:  1968-09-22 11:21:00
+moon angular size (degrees):  0.5375894165039062
+sun angular size (degrees):  0.5312919108072917
+sun altitude (degrees):  18.604040232976757
+sun azimuth (degrees):  241.92751338314272
+sun moon separation (degrees) 0.00011090845001034967
+type of eclipse:  total solar eclipse
+
+latitude (degrees):  54.402499999999996
+longitude (degrees):  64.93444444444445
+time:  1968-09-22 11:22:00
+moon angular size (degrees):  0.5375858900282118
+sun angular size (degrees):  0.5312919786241319
+sun altitude (degrees):  18.55685728619031
+sun azimuth (degrees):  242.51444519890026
+sun moon separation (degrees) 0.0001426951819438171
+type of eclipse:  total solar eclipse
+
+latitude (degrees):  53.967777777777776
+longitude (degrees):  65.20083333333334
+time:  1968-09-22 11:23:00
+moon angular size (degrees):  0.537578837076823
+sun angular size (degrees):  0.5312920803493923
+sun altitude (degrees):  18.48662928114424
+sun azimuth (degrees):  243.10845309063794
+sun moon separation (degrees) 4.4959107358139015e-05
+type of eclipse:  total solar eclipse
+
+latitude (degrees):  53.53388888888889
+longitude (degrees):  65.46916666666667
+time:  1968-09-22 11:24:00
+moon angular size (degrees):  0.5375702921549479
+sun angular size (degrees):  0.5312921481662326
+sun altitude (degrees):  18.406770709368452
+sun azimuth (degrees):  243.70109494454158
+sun moon separation (degrees) 9.187493077011018e-05
+type of eclipse:  total solar eclipse
+
+latitude (degrees):  53.10055555555556
+longitude (degrees):  65.7675
+time:  1968-09-22 11:25:00
+moon angular size (degrees):  0.5375579833984375
+sun angular size (degrees):  0.531292215983073
+sun altitude (degrees):  18.3022585697835
+sun azimuth (degrees):  244.31712336616337
+sun moon separation (degrees) 4.2380209270120666e-05
+type of eclipse:  total solar eclipse
+
+latitude (degrees):  52.66777777777777
+longitude (degrees):  66.06777777777778
+time:  1968-09-22 11:26:00
+moon angular size (degrees):  0.5375441148546007
+sun angular size (degrees):  0.531292249891493
+sun altitude (degrees):  18.187770938915747
+sun azimuth (degrees):  244.93115737254752
+sun moon separation (degrees) 4.9230990085385654e-05
+type of eclipse:  total solar eclipse
+
+latitude (degrees):  52.23583333333333
+longitude (degrees):  66.38388888888889
+time:  1968-09-22 11:27:00
+moon angular size (degrees):  0.5375275336371528
+sun angular size (degrees):  0.5312923177083333
+sun altitude (degrees):  18.05547529733448
+sun azimuth (degrees):  245.55508149284987
+sun moon separation (degrees) 0.0001509586733265931
+type of eclipse:  total solar eclipse
+
+latitude (degrees):  51.81861111111112
+longitude (degrees):  66.7025
+time:  1968-09-22 11:28:00
+moon angular size (degrees):  0.5375084092881944
+sun angular size (degrees):  0.5312923516167535
+sun altitude (degrees):  17.90697503194735
+sun azimuth (degrees):  246.17274915987244
+sun moon separation (degrees) 8.400455880062057e-05
+type of eclipse:  total solar eclipse
+
+latitude (degrees):  51.401666666666664
+longitude (degrees):  67.05111111111111
+time:  1968-09-22 11:29:00
+moon angular size (degrees):  0.5374853176540798
+sun angular size (degrees):  0.5312924194335937
+sun altitude (degrees):  17.732644698666533
+sun azimuth (degrees):  246.81191826240223
+sun moon separation (degrees) 8.686281496382503e-05
+type of eclipse:  total solar eclipse
+
+latitude (degrees):  50.98555555555556
+longitude (degrees):  67.40194444444445
+time:  1968-09-22 11:30:00
+moon angular size (degrees):  0.5374605984157986
+sun angular size (degrees):  0.5312924533420139
+sun altitude (degrees):  17.54772074198302
+sun azimuth (degrees):  247.44800011942718
+sun moon separation (degrees) 0.00011493962394688773
+type of eclipse:  total solar eclipse
+
+latitude (degrees):  50.58388888888889
+longitude (degrees):  67.76916666666666
+time:  1968-09-22 11:31:00
+moon angular size (degrees):  0.5374321153428819
+sun angular size (degrees):  0.5312924533420139
+sun altitude (degrees):  17.338853557164033
+sun azimuth (degrees):  248.08883578811447
+sun moon separation (degrees) 7.990427370608896e-05
+type of eclipse:  total solar eclipse
+
+latitude (degrees):  50.16888888888889
+longitude (degrees):  68.16694444444445
+time:  1968-09-22 11:32:00
+moon angular size (degrees):  0.5374002075195312
+sun angular size (degrees):  0.531292487250434
+sun altitude (degrees):  17.1077882575425
+sun azimuth (degrees):  248.75390496797695
+sun moon separation (degrees) 0.0001341783448053471
+type of eclipse:  total solar eclipse
+
+latitude (degrees):  49.76833333333333
+longitude (degrees):  68.5675
+time:  1968-09-22 11:33:00
+moon angular size (degrees):  0.53736572265625
+sun angular size (degrees):  0.531292487250434
+sun altitude (degrees):  16.86047393788551
+sun azimuth (degrees):  249.41132433596903
+sun moon separation (degrees) 8.539443839088646e-05
+type of eclipse:  total solar eclipse
+
+latitude (degrees):  49.36833333333333
+longitude (degrees):  68.98472222222222
+time:  1968-09-22 11:34:00
+moon angular size (degrees):  0.5373281860351562
+sun angular size (degrees):  0.531292487250434
+sun altitude (degrees):  16.593633814938745
+sun azimuth (degrees):  250.07636619507483
+sun moon separation (degrees) 7.881121588966568e-05
+type of eclipse:  total solar eclipse
+
+latitude (degrees):  48.96888888888889
+longitude (degrees):  69.41916666666667
+time:  1968-09-22 11:35:00
+moon angular size (degrees):  0.5372874959309896
+sun angular size (degrees):  0.531292487250434
+sun altitude (degrees):  16.30666000186607
+sun azimuth (degrees):  250.74903054529435
+sun moon separation (degrees) 0.00010613611803166096
+type of eclipse:  total solar eclipse
+
+latitude (degrees):  48.58361111111111
+longitude (degrees):  69.885
+time:  1968-09-22 11:36:00
+moon angular size (degrees):  0.5372414822048611
+sun angular size (degrees):  0.5312924533420139
+sun altitude (degrees):  15.986112393928204
+sun azimuth (degrees):  251.43658470790453
+sun moon separation (degrees) 6.445849674397291e-05
+type of eclipse:  total solar eclipse
+
+latitude (degrees):  48.184999999999995
+longitude (degrees):  70.36833333333333
+time:  1968-09-22 11:37:00
+moon angular size (degrees):  0.5371928575303819
+sun angular size (degrees):  0.5312924533420139
+sun altitude (degrees):  15.64908012442851
+sun azimuth (degrees):  252.13457539956647
+sun moon separation (degrees) 9.432170377706728e-05
+type of eclipse:  total solar eclipse
+
+latitude (degrees):  47.80083333333333
+longitude (degrees):  70.88333333333334
+time:  1968-09-22 11:38:00
+moon angular size (degrees):  0.5371387736002604
+sun angular size (degrees):  0.5312923855251737
+sun altitude (degrees):  15.277425626026021
+sun azimuth (degrees):  252.84633575259514
+sun moon separation (degrees) 4.434694607876774e-05
+type of eclipse:  total solar eclipse
+
+latitude (degrees):  47.41722222222222
+longitude (degrees):  71.41666666666667
+time:  1968-09-22 11:39:00
+moon angular size (degrees):  0.5370811971028646
+sun angular size (degrees):  0.5312923516167535
+sun altitude (degrees):  14.883624239239765
+sun azimuth (degrees):  253.56427059663352
+sun moon separation (degrees) 2.4788858729385947e-05
+type of eclipse:  total solar eclipse
+
+latitude (degrees):  47.03388888888889
+longitude (degrees):  71.96888888888888
+time:  1968-09-22 11:40:00
+moon angular size (degrees):  0.5370199584960937
+sun angular size (degrees):  0.5312922837999132
+sun altitude (degrees):  14.467296888570809
+sun azimuth (degrees):  254.28840725243828
+sun moon separation (degrees) 6.329451948573314e-05
+type of eclipse:  total solar eclipse
+
+latitude (degrees):  46.651111111111106
+longitude (degrees):  72.56833333333333
+time:  1968-09-22 11:41:00
+moon angular size (degrees):  0.5369521077473959
+sun angular size (degrees):  0.531292215983073
+sun altitude (degrees):  14.009890218912455
+sun azimuth (degrees):  255.04002858946316
+sun moon separation (degrees) 5.39433621553469e-05
+type of eclipse:  total solar eclipse
+
+latitude (degrees):  46.26861111111111
+longitude (degrees):  73.20166666666667
+time:  1968-09-22 11:42:00
+moon angular size (degrees):  0.536878899468316
+sun angular size (degrees):  0.5312921481662326
+sun altitude (degrees):  13.519217966675201
+sun azimuth (degrees):  255.80782381444263
+sun moon separation (degrees) 0.00011113496486251117
+type of eclipse:  total solar eclipse
+
+latitude (degrees):  45.900555555555556
+longitude (degrees):  73.88361111111112
+time:  1968-09-22 11:43:00
+moon angular size (degrees):  0.5367981635199652
+sun angular size (degrees):  0.5312920464409723
+sun altitude (degrees):  12.981622314839962
+sun azimuth (degrees):  256.5988963241135
+sun moon separation (degrees) 2.945209725045352e-05
+type of eclipse:  total solar eclipse
+
+latitude (degrees):  45.51888888888889
+longitude (degrees):  74.60166666666666
+time:  1968-09-22 11:44:00
+moon angular size (degrees):  0.5367120700412327
+sun angular size (degrees):  0.5312919108072917
+sun altitude (degrees):  12.411550821048602
+sun azimuth (degrees):  257.4091206842171
+sun moon separation (degrees) 0.00012598008047341473
+type of eclipse:  total solar eclipse
+
+latitude (degrees):  45.15138888888889
+longitude (degrees):  75.38444444444445
+time:  1968-09-22 11:45:00
+moon angular size (degrees):  0.5366164822048611
+sun angular size (degrees):  0.5312917751736111
+sun altitude (degrees):  11.782733723979609
+sun azimuth (degrees):  258.2526763674704
+sun moon separation (degrees) 7.39931687156537e-05
+type of eclipse:  total solar eclipse
+
+latitude (degrees):  44.78444444444444
+longitude (degrees):  76.23444444444445
+time:  1968-09-22 11:46:00
+moon angular size (degrees):  0.5365113661024306
+sun angular size (degrees):  0.5312916056315105
+sun altitude (degrees):  11.095714023671999
+sun azimuth (degrees):  259.13292382694493
+sun moon separation (degrees) 4.810770176315084e-05
+type of eclipse:  total solar eclipse
+
+latitude (degrees):  44.4175
+longitude (degrees):  77.16777777777779
+time:  1968-09-22 11:47:00
+moon angular size (degrees):  0.5363948228624132
+sun angular size (degrees):  0.5312914021809896
+sun altitude (degrees):  10.338540596625542
+sun azimuth (degrees):  260.0600537048825
+sun moon separation (degrees) 4.7390205756707644e-05
+type of eclipse:  total solar eclipse
+
+latitude (degrees):  44.051111111111105
+longitude (degrees):  78.20222222222222
+time:  1968-09-22 11:48:00
+moon angular size (degrees):  0.5362645128038195
+sun angular size (degrees):  0.5312911987304687
+sun altitude (degrees):  9.497676861678919
+sun azimuth (degrees):  261.04477573790155
+sun moon separation (degrees) 6.2791554652946e-05
+type of eclipse:  total solar eclipse
+
+latitude (degrees):  43.684999999999995
+longitude (degrees):  79.38527777777779
+time:  1968-09-22 11:49:00
+moon angular size (degrees):  0.536114739312066
+sun angular size (degrees):  0.5312909274631077
+sun altitude (degrees):  8.538571453141973
+sun azimuth (degrees):  262.1183995131575
+sun moon separation (degrees) 0.00010069462993110387
+type of eclipse:  total solar eclipse
+
+latitude (degrees):  43.31916666666667
+longitude (degrees):  80.76861111111111
+time:  1968-09-22 11:50:00
+moon angular size (degrees):  0.5359391615125868
+sun angular size (degrees):  0.5312905883789063
+sun altitude (degrees):  7.423314259800196
+sun azimuth (degrees):  263.3136279763964
+sun moon separation (degrees) 0.00016360851707724526
+type of eclipse:  total solar eclipse
+
+latitude (degrees):  42.967222222222226
+longitude (degrees):  82.48361111111112
+time:  1968-09-22 11:51:00
+moon angular size (degrees):  0.5357217068142361
+sun angular size (degrees):  0.5312901475694445
+sun altitude (degrees):  6.056365876203918
+sun azimuth (degrees):  264.7152101148397
+sun moon separation (degrees) 3.132313881046152e-05
+type of eclipse:  total solar eclipse
+
+latitude (degrees):  42.60166666666667
+longitude (degrees):  84.85
+time:  1968-09-22 11:52:00
+moon angular size (degrees):  0.5354243638780382
+sun angular size (degrees):  0.5312895033094618
+sun altitude (degrees):  4.216387192109707
+sun azimuth (degrees):  266.5368762079954
+sun moon separation (degrees) 9.64424161978159e-05
+type of eclipse:  total solar eclipse
+
