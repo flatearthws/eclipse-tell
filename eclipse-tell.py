@@ -81,5 +81,7 @@ else:
             type = "total solar eclipse"
     elif separation < moonradius + sunradius:
         type = "partial solar eclipse"
+    else:
+        type = "no eclipse is occuring"
 
 print("type of eclipse: ", type)
